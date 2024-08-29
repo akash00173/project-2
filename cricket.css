@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+#choice-button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(157, 218, 95);
+    border-radius: 50px;
+;
+}
+#choice-button:hover{
+    transform: scale(1.2);
+}
+.choice-img{
+    height: 75px;
+}
+.new-img{
+    height: 45px;
+    width: 50px;
+    border: 5px ridge rgb(57, 159, 199);
+    
+    
+    ;
+}
+#image{
+    height: 30px;
+}
